@@ -1,1 +1,1 @@
-# Bhaarat-Grinder-Admin
+# Bhaarat Grinder Admin
